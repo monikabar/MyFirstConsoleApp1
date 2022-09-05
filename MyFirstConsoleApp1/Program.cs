@@ -17,6 +17,8 @@ var digitInText = Console.ReadLine();
 var digit = int.Parse(digitInText);
 Console.WriteLine("Skaicius yra " + digit);*/
 
+//UZDUODYS IS SKAIDRIU
+
 /*Console.WriteLine("Kokia tavo megstama spalva?");
 var colour = Console.ReadLine();
 Console.WriteLine("Mano irgi " + colour);
@@ -62,7 +64,6 @@ Console.WriteLine("iveskite ketvirta skaiciu:");
 var fourth = Console.ReadLine();
 var fourthDigit = int.Parse(fourth);
 Console.WriteLine("vidurkis " + (firstDigit + secondDigit + thirdDigit + fourthDigit) / 4);*/
-
 
 /*Console.WriteLine("iveskite pirma skaiciu:");
 var first = Console.ReadLine();
