@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 /*Console.WriteLine("Hello, World!");
 Console.WriteLine("Labas, pasauli!");
 Console.WriteLine(1 + 2);
@@ -74,6 +75,15 @@ var third = Console.ReadLine();
 var thirdDigit = int.Parse(third);
 Console.WriteLine("pirmas rezultatas" + (firstDigit+secondDigit)*thirdDigit);
 Console.WriteLine("antras rezultatas" + (firstDigit * thirdDigit) + (secondDigit * thirdDigit));*/
+
+//9 uzduodis - NESUPRANTU IR NEISIVAIZDUOJU KAIP
+
+/*Console.WriteLine("iveskite Celsijaus laipsnius");
+var Celsius = Console.ReadLine();
+var CelsiusDigit = int.Parse(Celsius);
+Console.WriteLine("Kelvis= " + (CelsiusDigit + 273));
+Console.WriteLine("Fahrenheit= " + (CelsiusDigit * 18 / 10 + 32));*/
+
 
 
 
