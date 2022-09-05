@@ -72,8 +72,8 @@ var secondDigit = int.Parse(second);
 Console.WriteLine("iveskite trecia skaiciu:");
 var third = Console.ReadLine();
 var thirdDigit = int.Parse(third);
-Console.WriteLine("pirmas" + (firstDigit+secondDigit)*thirdDigit);
-Console.WriteLine("antras" + (firstDigit * thirdDigit) + (secondDigit * thirdDigit));*/
+Console.WriteLine("pirmas rezultatas" + (firstDigit+secondDigit)*thirdDigit);
+Console.WriteLine("antras rezultatas" + (firstDigit * thirdDigit) + (secondDigit * thirdDigit));*/
 
 
 
